@@ -1,4 +1,4 @@
-# antt
+# PostsList
 
 ## Project setup
 ```
